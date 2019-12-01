@@ -1,2 +1,2 @@
 # ReactJS
-https://reactjs.org
+Tic-Tac-Toe with ReactJS
